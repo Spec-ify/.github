@@ -1,5 +1,3 @@
-# Spec-ify
-
 ## Development Team
 Thanks to our development team for making this project possible!
 | Person                                          | Role                  |
