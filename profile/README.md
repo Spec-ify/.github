@@ -3,6 +3,7 @@ Thanks to our development team for making this project possible!
 | Person                                          | Role                  |
 | ----------------------------------------------- | --------------------- |
 | [Drybaby](https://github.com/Drybaby)           | Project Lead          |
+| [sealsrock12](https://github.com/sealsrock12)   | Architecture Lead     |
 | [zleyyij](https://github.com/zleyyij)           | Quality Lead          |
 | [JimmahDean](https://github.com/JimmahDean)     | Senior Engineer       |
 | [XavierNCline](https://github.com/XavierNCline) | Senior Engineer       |
