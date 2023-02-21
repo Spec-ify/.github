@@ -18,3 +18,4 @@ Thanks to these people for feedback that helped us improve!
 | [PipeItToDevNull](https://github.com/PipeItToDevNull) |
 | [Daspletosaurid](https://github.com/Daspletosaurid) |
 | [AyeeSecret](https://github.com/AyeeSecret) |
+| [ajax146](https://github.com/ajax146/) |
